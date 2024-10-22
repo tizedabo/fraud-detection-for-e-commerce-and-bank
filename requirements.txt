@@ -1,0 +1,13 @@
+#pip install
+pandas
+numpy 2.1.1
+matplotlib
+plotly
+dvc 3.55.2
+scipy-1.14.1
+seaborn
+scikit-learn
+statsmodels
+
+
+
